@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-hola felix
-=======
-hola Félix, vamos a fusionar la rama
- 
->>>>>>> version-nueva
-
